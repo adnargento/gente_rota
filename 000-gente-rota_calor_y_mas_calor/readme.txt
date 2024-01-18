@@ -1,0 +1,28 @@
+mixtral
+
+Here is the translated version of the script in American English:
+
+1. 00:00:00,000 --> 00:00:04,680
+The forecast for the weekend, according to what I read this morning, is hot, hot, hot.
+2. 00:00:04,680 --> 00:00:09,800
+Because tomorrow supposedly it's going to rain, but it marks 36 degrees, which means that tomorrow...
+3. 00:00:09,800 --> 00:00:14,680
+in addition to being scorching hot, the humidity will hit you like a ton of bricks and the mosquitoes will start coming out because...
+4. 00:00:14,680 --> 00:00:18,520
+it's obvious, whenever there's humidity, the mosquitoes come out.
+5. 00:00:18,520 --> 00:00:24,080
+They'll drive you crazy biting you, damn summer, honestly it sucks, I don't know...
+6. 00:00:24.080 --> 00:00:28,320
+who the hell likes this, whoever likes this must enjoy suffering because...
+7. 00:00:28,320 --> 00:00:32,480
+they probably have a crappy life, since they probably don't want to go home because their family must hate them.
+8. 00:00:32,480 --> 00:00:37,960
+Under normal circumstances, nobody enjoys having 35-degree heat right up their butt at this time of day, nobody, nobody already feels sticky and sweaty.
+9. 00:00:37,960 --> 00:00:44,640
+I want to grab the steering wheel, everything sticks to me, including this stupid steering wheel that even heats up on the mirrors, goddammit!
+10. 00:00:51,560 --> 00:00:57,400
+There's some son of a bitch who started working six months ago and already got assigned a car with air conditioning.
+11. 00:00:57,400 --> 00:01:01,120
+It seems like I piss them off royally, still driving around in this piece of junk that gets hotter than mercury, God, I feel like dying!
+
+Note: Some slang and curse words were kept in the original Spanish due to their colloquial nature and lack of direct equivalents in American English. Also, note that some words were changed slightly to fit better into American English usage.

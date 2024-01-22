@@ -1,4 +1,4 @@
-whisper gente-rota_motivacion_fisica.mp4 --model medium --task transcribe --model es
+whisper gente-rota_motivacion_fisica.mp4 --model medium --task transcribe --language es
 
 translate with Model: mistralai/Mixtral-8x7B-Instruct-v0.1 
 
